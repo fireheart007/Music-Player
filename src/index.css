@@ -49,7 +49,7 @@ body {
 
   #navbarList {
     display: flex;
-    gap: 7px;
+    gap: 1em;
   }
   #listShowButton {
     display: block;
